@@ -1,150 +1,70 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:240046,20:3C096C,45:5A189A,70:7B2CBF,100:9D4EDD&text=Prasoon%20Verma&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20Java%20Developer%20%7C%20Android%20Developer&descAlignY=58&animation=fadeIn"/>
-
-# Hi there 👋 I'm Prasoon Verma
-
-### Associate Software Engineer • Java Developer • Android Developer • Backend Enthusiast
-
-<p>
-I enjoy building scalable applications, solving real-world problems, and continuously learning new technologies.
-Currently exploring Backend Development, Cloud Computing, and System Design.
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 💻 Passionate about building software that solves real-world problems
-- 🌱 Continuously learning new technologies and improving my development skills
-- ☕ Primarily working with Java, Kotlin, Python, and Android development
-- 🚀 Currently exploring Backend Development, Cloud Computing, and System Design
-- 🤝 Always open to collaborating on interesting projects and open-source contributions
-
----
-
-## 🌐 Connect with Me
+<h1 align="center">Hi 👋, I'm Prasoon Verma</h1>
+<h3 align="center">SDE | MERN Stack Developer | ML Enthusiast</h3>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/prasoon-verma21">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:prasoon21v@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/prasoon__verma">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Prasoon2109">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
+  Computer Science Engineering grad from SRM Institute of Science and Technology, Chennai.
+  Building full-stack web apps and exploring ML — currently looking for SDE roles.
 </p>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,androidstudio,firebase,mysql,sqlite,git,github,postman,gcp,figma&perline=7"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prasoon-Verma-21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasoon-Verma-21&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasoon-Verma-21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prasoon-Verma-21&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasoon-Verma-21&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Prasoon-Verma-21/Vertex_E-Commerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasoon-Verma-21&repo=Vertex_E-Commerce&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Prasoon-Verma-21/Attendance-Management">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasoon-Verma-21&repo=Attendance-Management&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
 
 <br>
 
-<div align="center">
+## 🌐 Connect with me
+<p align="left">
+<a href="https://instagram.com/prasoon__verma" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://linkedin.com/in/prasoon-verma21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Prasoon2109" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/></a>
+<a href="mailto:prasoon21v@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<a href="https://github.com/Prasoon-Verma-21/Fraud_Transaction_Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasoon-Verma-21&repo=Fraud_Transaction_Detection&theme=tokyonight&hide_border=true"/>
-</a>
+## 💻 Tech Stack
 
-<a href="https://github.com/Prasoon-Verma-21/Phishing_Website_Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasoon-Verma-21&repo=Phishing_Website_Detection&theme=tokyonight&hide_border=true"/>
-</a>
+**Frontend / MERN**
 
-</div>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background:white;padding:2px;border-radius:4px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</p>
+
+**Languages & Other Tools**
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=Prasoon-Verma-21&show_icons=true&theme=tokyonight" alt="Prasoon's GitHub stats" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prasoon-Verma-21&layout=compact&theme=tokyonight" alt="Top languages" width="45%"/>
+</p>
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=Prasoon-Verma-21&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repo"/>
+</p>
 
 ---
 
-# 📫 Let's Connect
+<p align="center">
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Prasoon-Verma-21&icon=2&color=4" alt="visitor count"/></a>
+</p>
 
-<div align="center">
-
-💬 Feel free to connect with me for collaborations, open-source contributions, or just a tech chat!
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=Prasoon-Verma-21&icon=5&color=12"/>
-
-</div>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
