@@ -88,7 +88,7 @@ Some things I've recently built:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasoon-Verma-21&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF1493&line=00BFFF&point=FFFFFF" width="95%"/>
 </div>
 
-### 🐍 Contribution Snake
+### 📊 Contribution
 
 <div align="center">
 
