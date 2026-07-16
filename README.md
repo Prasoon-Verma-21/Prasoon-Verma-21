@@ -2,16 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00BFFF&height=220&section=header&text=Prasoon%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20%7C%20MERN%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+web+apps+with+MERN;Exploring+Machine+Learning+%26+AI;CSE+Grad+%40+SRM+Institute+of+Science+%26+Tech;Currently+looking+for+SDE+roles+🚀&font=Fira%20Code&center=true&width=600&height=50&color=FF1493&vCenter=true&size=22&pause=1200" alt="Typing SVG"/>
-</a>
 
 <br>
 
-<a href="https://instagram.com/prasoon__verma"><img src="https://img.shields.io/badge/-@prasoon__verma-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://linkedin.com/in/prasoon-verma21"><img src="https://img.shields.io/badge/-Prasoon%20Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/Prasoon2109"><img src="https://img.shields.io/badge/-@Prasoon2109-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:prasoon21v@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Turning Ideas into Code💡-8A2BE2?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/CSE_Graduate-FF1493?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍_India-00BFFF?style=for-the-badge&labelColor=1a1a2e"/>
+
+<br><br>
+
+<a href="https://linkedin.com/in/prasoon-verma21"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:prasoon21v@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/Prasoon2109"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/prasoon__verma"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Profile%20Views&query=%24.count&url=https://api.countapi.xyz/hit/Prasoon-Verma-21/profile-readme&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Prasoon-Verma-21?label=Followers&style=for-the-badge&color=FF1493&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=00BFFF&label=Repos&query=%24.public_repos&url=https://api.github.com/users/Prasoon-Verma-21&style=for-the-badge"/>
 
 </div>
 
@@ -21,11 +30,15 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif">
 
-- 🎓 CSE grad from **SRM Institute of Science and Technology**, Chennai
-- 💻 Building projects across the **MERN stack**, ML, and web development
-- 🧠 Recent work: an ML-based pregnancy complication predictor, a proctored online exam system, and a phishing-site detector
-- 👀 Actively looking for **SDE roles** — open to interesting opportunities
-- ⚡ Fun fact: I'll happily nerd out about both React hooks *and* nmap scans
+I'm a **Computer Science Engineering graduate** from **SRM Institute of Science and Technology, Chennai**, currently looking for **SDE roles**. I build full-stack applications on the **MERN stack** and enjoy exploring machine learning on the side.
+
+Some things I've recently built:
+- 🧠 An **ML-based pregnancy complication prediction system** (Extra Trees + SVM ensemble)
+- 📝 A **proctored online examination system** with camera monitoring, randomized questions, and auto-generated report cards
+- 🎣 A **phishing website detector**
+- 💰 A **fraud transaction detection** model
+
+- 👀 Actively open to **SDE opportunities** — feel free to reach out!
 
 <br clear="right"/>
 
@@ -33,38 +46,27 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-**MERN Stack**
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,kotlin&theme=dark" />
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br><br>
 
-**Languages & ML**
+**Frontend**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-**Databases, Tools & Cloud**
+<br><br>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+**Backend & Databases**
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite&theme=dark" />
+
+<br><br>
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=gcp,firebase,git,github,androidstudio,figma,postman&theme=dark" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:00BFFF&height=3&section=header" width="100%"/>
 
@@ -80,23 +82,29 @@
 
 </div>
 
-### 🏆 Trophies
+### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prasoon-Verma-21&theme=radical&no-frame=true&row=1&column=6&margin-w=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasoon-Verma-21&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF1493&line=00BFFF&point=FFFFFF" width="95%"/>
 </div>
 
-### 🔝 Top Contributed Repo
+### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Prasoon-Verma-21&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+
+<!--START_SECTION:snake-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prasoon-Verma-21/Prasoon-Verma-21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prasoon-Verma-21/Prasoon-Verma-21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Prasoon-Verma-21/Prasoon-Verma-21/output/github-contribution-grid-snake.svg">
+</picture>
+<!--END_SECTION:snake-->
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:8A2BE2&height=3&section=header" width="100%"/>
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Prasoon-Verma-21&icon=8&color=6)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:FF1493,100:8A2BE2&height=100&section=footer" width="100%"/>
 
