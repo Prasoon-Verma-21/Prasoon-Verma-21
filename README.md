@@ -18,9 +18,8 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Profile%20Views&query=%24.count&url=https://api.countapi.xyz/hit/Prasoon-Verma-21/profile-readme&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nm7249&label=Profile%20Views&color=14B8A6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Prasoon-Verma-21?label=Followers&style=for-the-badge&color=FF1493&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=00BFFF&label=Repos&query=%24.public_repos&url=https://api.github.com/users/Prasoon-Verma-21&style=for-the-badge"/>
 
 </div>
 
@@ -46,27 +45,24 @@ Some things I've recently built:
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,kotlin&theme=dark" />
-
-<br><br>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-<br><br>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite&theme=dark" />
-
-<br><br>
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=gcp,firebase,git,github,androidstudio,figma,postman&theme=dark" />
+<table>
+<tr>
+<td valign="top"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,kotlin&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="top"><b>Backend & Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite&theme=dark" /></td>
+</tr>
+<tr>
+<td valign="top"><b>Cloud, DevOps & Tooling</b></td>
+<td><img src="https://skillicons.dev/icons?i=gcp,firebase,git,github,androidstudio,figma,postman&theme=dark" /></td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:00BFFF&height=3&section=header" width="100%"/>
 
@@ -82,11 +78,15 @@ Some things I've recently built:
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:FF1493&height=3&section=header" width="100%"/>
+
 ### 📈 Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasoon-Verma-21&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF1493&line=00BFFF&point=FFFFFF" width="95%"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:00BFFF&height=3&section=header" width="100%"/>
 
 ### 📊 Contribution
 
