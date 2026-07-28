@@ -69,8 +69,8 @@ Some things I've recently built:
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Prasoon-Verma-21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prasoon-Verma-21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-stats-extended-omega-two.vercel.app/api?username=Prasoon-Verma-21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-stats-extended-omega-two.vercel.app/api/top-langs/?username=Prasoon-Verma-21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 <br/>
 
