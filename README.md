@@ -106,6 +106,8 @@ Some things I've recently built:
 
 <div align="center">
 
+⭐ Thanks for visiting my profile!
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:FF1493,100:8A2BE2&height=100&section=footer" width="100%"/>
 
 </div>
